@@ -33,7 +33,7 @@ client.on('message', (message) => {
 
   // Responder à mensagem
   if (message.body === 'Oi') {
-    message.reply('Olá! Como posso ajudar?');
+    message.reply('Olá! Como posso ajudar?Teste');
   }
 });
 
